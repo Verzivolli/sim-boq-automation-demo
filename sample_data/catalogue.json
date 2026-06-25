@@ -1,0 +1,36 @@
+[
+  {
+    "code": "A-001",
+    "name": "Excavation in common soil",
+    "unit": "m3",
+    "price": 8.5,
+    "product_id": 101,
+    "unit_id": 1,
+    "group_id": 10,
+    "group_name": "Earthworks",
+    "is_device": false
+  },
+  {
+    "code": "A-002",
+    "name": "Granular subbase layer",
+    "unit": "m3",
+    "price": 32.0,
+    "product_id": 102,
+    "unit_id": 1,
+    "group_id": 11,
+    "group_name": "Pavement layers",
+    "is_device": false
+  },
+  {
+    "code": "D-001",
+    "name": "Excavator rental",
+    "unit": "hour",
+    "price": 55.0,
+    "product_id": 201,
+    "unit_id": 5,
+    "group_id": null,
+    "group_name": "",
+    "is_device": true
+  }
+]
+
