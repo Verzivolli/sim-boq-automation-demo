@@ -52,5 +52,5 @@ python -m unittest discover -s tests
 
 ## Portfolio Positioning
 
-This is a cleaned demo of a private workflow automation prototype. It is meant to show analytical decomposition and data transformation, not a production integration with a live government platform.
+This is a cleaned demo of a private workflow automation prototype. It is meant to show analytical decomposition and data transformation, not a production integration with a live government platform (https://manuali.infrastruktura.gov.al/) using platform login-generated API key for each user.
 
